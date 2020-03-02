@@ -36,4 +36,4 @@ models are tested, with grid search for optimal hyper-parameters.
 2. Raw Data is being kept [here](https://github.com/Simioo/DS-2019/tree/develop/data/raw) within this repo.
 3. Data processing/transformation scripts are being kept [here](https://github.com/Simioo/DS-2019/tree/develop/bin)
 4. Model scripts and prediction scripts are being kept [here](https://github.com/Simioo/DS-2019/tree/develop/models)
-5. Exploratory data analysis can be found [here]()
+5. Exploratory data analysis can be found [here](https://github.com/Simioo/Titanic/tree/master/notebooks)
